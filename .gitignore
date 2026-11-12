@@ -12,3 +12,7 @@ deepseek_html_*.html
 # Sources lourdes (TIFF déguisés en .png) - les versions web sont dans logos-web/
 logos/
 mounir.jpg
+
+# Sources locales de generation des PDF (inutiles en ligne)
+print-src/
+assets/fonts/

@@ -37,7 +37,7 @@
   .skip,.nav,.progress,.to-top,.mobile-menu,.burger,.toast,
   .marquee,.trust,.terminal,.hud,.hud-badge,.hero-actions,.hero::before,.hero::after,
   .tool-marquee,.sec-ghost,.exp-visual,.xp-chev,.caret,.bar,
-  .contact,footer{ display:none !important; }
+  .contact,footer,.dl{ display:none !important; }
 
   a{ color:inherit; text-decoration:none; }
   .reveal{ opacity:1 !important; transform:none !important; }
