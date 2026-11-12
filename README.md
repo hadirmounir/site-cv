@@ -16,8 +16,8 @@ Site vitrine bilingue (FR / EN), theme sombre, sans dependance a installer.
 | `assets/app.js` | animations, accordeon, copie de l'e-mail, bascule FR/EN |
 | `logos-web/` | logos en vrai PNG (versions web legeres) |
 | `mounir-web.jpg` | photo optimisee |
-| `CV-Mounir-Hadir-FR.pdf` | CV francais (4 pages A4) - telecharge depuis le site |
-| `CV-Mounir-Hadir-EN.pdf` | CV anglais (4 pages A4) - telecharge depuis le site |
+| `CV-Mounir-Hadir-FR.pdf` | CV francais (6 pages A4) - telecharge depuis le site |
+| `CV-Mounir-Hadir-EN.pdf` | CV anglais (6 pages A4) - telecharge depuis le site |
 | `.nojekyll` | evite le traitement Jekyll de GitHub Pages |
 
 ## Publier sur GitHub Pages (gratuit, etape par etape)
