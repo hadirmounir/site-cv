@@ -15,4 +15,4 @@ mounir.jpg
 
 # Sources locales de generation des PDF (inutiles en ligne)
 print-src/
-assets/fonts/
+fonts/
