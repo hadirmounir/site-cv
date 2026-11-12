@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Captures de travail / fichiers de debug
+_*.png
+_cropview*.html
+
+# Anciennes versions conservées en local
+index-clair-v1.html
+deepseek_html_*.html
+
+# Sources lourdes (TIFF déguisés en .png) - les versions web sont dans logos-web/
+logos/
+mounir.jpg
