@@ -6,15 +6,15 @@
      PPA, URCA) sont volontairement exclus : ils figurent en Formation.
      HYROX est également exclu à la demande de Mounir. */
   var trusted = [
-    { src: 'logos-web/consort.png',  name: 'Consort Group' },
-    { src: 'logos-web/oney.png',     name: 'Oney Bank' },
-    { src: 'logos-web/antenia.png',  name: 'Antenia' },
-    { src: 'logos-web/afiesca.png',  name: 'AFI ESCA' },
-    { src: 'logos-web/escen.png',    name: 'ESCEN' },
-    { src: 'logos-web/rgis.png',     name: 'RGIS' },
-    { src: 'logos-web/animafac.png', name: 'Animafac' },
-    { src: 'logos-web/ie.png',       name: "Institut de l'Engagement" },
-    { src: 'logos-web/trema.png',    name: 'Trema' }
+    { src: 'consort.png',  name: 'Consort Group' },
+    { src: 'oney.png',     name: 'Oney Bank' },
+    { src: 'antenia.png',  name: 'Antenia' },
+    { src: 'afiesca.png',  name: 'AFI ESCA' },
+    { src: 'escen.png',    name: 'ESCEN' },
+    { src: 'rgis.png',     name: 'RGIS' },
+    { src: 'animafac.png', name: 'Animafac' },
+    { src: 'ie.png',       name: "Institut de l'Engagement" },
+    { src: 'trema.png',    name: 'Trema' }
   ];
 
   var track = document.getElementById('track1');
