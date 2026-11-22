@@ -38,8 +38,9 @@
   /* ---------- Bandeau d'outils (deux lignes, sens opposés) ---------- */
   var tools = [
     'Jira', 'Xray', 'Mantis', 'Trello', 'Bruno', 'Postman', 'Agilitest',
-    'Playwright', 'SQL', 'DB2', 'Power BI', 'Excel', 'Salesforce',
-    'GESTASSA', 'NEO Core', 'NEO Pricing', 'Agile / Scrum'
+    'Playwright', 'Cypress', 'TypeScript', 'GitLab CI', 'SQL', 'DB2',
+    'Power BI', 'Excel', 'Salesforce', 'GESTASSA', 'NEO Core', 'NEO Pricing',
+    'Agile / Scrum', 'SAFe', 'IA appliquée'
   ];
   var toolBand = document.getElementById('toolBand');
   if (toolBand) {
